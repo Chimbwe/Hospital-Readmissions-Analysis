@@ -22,6 +22,7 @@ This project analyzes hospital readmission outcomes using data from the Centers 
 
 ## Repository Structure
 
+```text
 Hospital-Readmissions-Analysis/
 ├── data/
 │   └── hospital_readmissions.csv
@@ -31,6 +32,7 @@ Hospital-Readmissions-Analysis/
 │   └── top_10_hospitals_excess_readmission_ratio.png
 ├── hospital_readmissions_analysis.ipynb
 └── README.md
+```
 
 ## Methodology 
 
