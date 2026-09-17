@@ -24,11 +24,11 @@ This project analyzes hospital readmission outcomes using data from the Centers 
 
 Hospital-Readmissions-Analysis/
 ├── data/
-│   └── cms_hospital_readmissions.csv
+│   └── hospital_readmissions.csv
 ├── images/
-│   └── predicted_readmission_rate_by_condition.png
-│   └── top_10_states_higher_than_expected.png
-│   └── top_10_hospitals_readmission_ratio.png
+│   ├── predicted_readmission_rate_by_condition.png
+│   ├── top_10_states_higher_than_expected.png
+│   └── top_10_hospitals_excess_readmission_ratio.png
 ├── hospital_readmissions_analysis.ipynb
 └── README.md
 
