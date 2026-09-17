@@ -90,7 +90,7 @@ Among hospitals with all six HRRP measures reported, 17 exceeded expected readmi
 
 Data for this project comes from the Centers for Medicare & Medicaid Services (CMS) Hospital Readmissions Reduction Program (HRRP) dataset available though the CMS Provider Data Catalog.
 
-[CMS Hospital Readmissions Reduction Program Datset](https://data.cms.gov/provider-data/dataset/9n3s-kdb3)
+[CMS Hospital Readmissions Reduction Program Dataset](https://data.cms.gov/provider-data/dataset/9n3s-kdb3)
 
 The dataset contains hospital-level 30-day readmission measures for six conditions and procedures included in the HRRP.
 
