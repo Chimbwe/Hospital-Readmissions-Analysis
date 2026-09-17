@@ -72,7 +72,7 @@ Heart failure had the highest average predicted readmission rate, while hip/knee
 New Jersey had the highest percentage of reported hospital-condition records with excess readmission ratios above 1.0.
 
 ### Hospitals with Consistently Elevated Readmission Ratios
-![Hospitals with Elevated Excess Readmission Ratios](top_10_hospitals_excess_readmission_ratio.png)
+![Hospitals with Elevated Excess Readmission Ratios](images/top_10_hospitals_excess_readmission_ratio.png)
 
 Among hospitals with all six HRRP measures reported, 17 exceeded expected readmission levels across every measure . The chart displays the ten with the highest average excess readmission ratios. 
 
