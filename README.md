@@ -94,7 +94,7 @@ Data for this project comes from the Centers for Medicare & Medicaid Services (C
 
 The dataset contains hospital-level 30-day readmission measures for six conditions and procedures included in the HRRP.
 
-#</> Markdown
+</> Markdown
 
 ## Limitations
 - CMS reporting rules result in suppressed or unavailable values for some hospital-condition records, so not every hospital has complete data across all six HRRP measures.
