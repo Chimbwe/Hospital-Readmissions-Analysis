@@ -6,7 +6,7 @@
 
 This project analyzes hospital readmission outcomes using data from the Centers for Medicare & Medicaid Services (CMS) Hospital Readmissions Reduction Program (HHRP). The analysis examines how 30-day readmissions outcomes vary across clinical conditions, states, and hospitals, with a focus on identifying patterns in higher-than-expected readmissions.
 
-</> Markdow
+</> Markdown
 ## Tools
 
 - Python
