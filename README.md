@@ -1,12 +1,9 @@
-</> Markdown
-
 # Hospital Readmissions Analysis
 
 ## Overview 
 
 This project analyzes hospital readmission outcomes using data from the Centers for Medicare & Medicaid Services (CMS) Hospital Readmissions Reduction Program (HHRP). The analysis examines how 30-day readmissions outcomes vary across clinical conditions, states, and hospitals, with a focus on identifying patterns in higher-than-expected readmissions.
 
-</> Markdown
 ## Tools
 
 - Python
@@ -15,7 +12,6 @@ This project analyzes hospital readmission outcomes using data from the Centers 
 - Matplotlib
 - Jupyter Notebook
 
-</> Markdown
 ## Analysis Questions
 
 1. How do predicted readmission rates vary across HRRP conditions?
@@ -24,7 +20,6 @@ This project analyzes hospital readmission outcomes using data from the Centers 
 4. How does the prevalence of higher-than-expected readmissions vary across states?
 5. Which hospitals show consistently higher-than-expected readmissions across multiple HRRP measures?
 
-</> Markdown
 ## Repository Structure
 
 Hospital-Readmissions-Analysis/
@@ -37,7 +32,6 @@ Hospital-Readmissions-Analysis/
 ├── hospital_readmissions_analysis.ipynb
 └── README.md
 
-</> Markdown
 ## Methodology 
 
 ### Data Preparation
@@ -53,17 +47,13 @@ Hospital-Readmissions-Analysis/
 - Aggregated condition-level records to the hospital level and evaluated reporting coverage before comparing facilities.
 - Examined hospitals with complete reporting across all six HRRP measures to identify consistently higher-than-expected readmission ratios.
 
-</> Markdown
-
 ## Key Findings
 
 - **Readmission rates varied substantially by condition.** Heart failure had the highest average predicted 30-day readmission rate at 19.38%, while hip/knee replacement had the lowest at 5.49%.
 - **48.15% of reported hospital-condition records had higher-than-expected readmissions.** Among 11,720 records with a reported excess readmission ratio, 5,643 exceeded 1.0.
 - **Condition-level differences in higher-than-expected readmissions were relatively small.** Percentages ranged from 46.81% for pneumonia to 49.89% for CABG.
 - **State-level patterns showed greater variation.** New Jersey had the highest share of higher-than-expected records at 65.44%, followed by Massachusetts at 62.50% and Mississippi at 61.08%.
-- **Consistently elevated ratios across all six measures were uncommon.** Among 647 hospitals with all six HRRP measures reported, 17 hospitals (2.63%) had excess readmission ratios above 1.0 across all six measures.
-
-</> Markdown 
+- **Consistently elevated ratios across all six measures were uncommon.** Among 647 hospitals with all six HRRP measures reported, 17 hospitals (2.63%) had excess readmission ratios above 1.0 across all six measures. 
 
 ## Visualizations
 
@@ -84,8 +74,6 @@ New Jersey had the highest percentage of reported hospital-condition records wit
 
 Among hospitals with all six HRRP measures reported, 17 exceeded expected readmission levels across every measure . The chart displays the ten with the highest average excess readmission ratios. 
 
-</> Markdown
-
 ## Data Source
 
 Data for this project comes from the Centers for Medicare & Medicaid Services (CMS) Hospital Readmissions Reduction Program (HRRP) dataset available though the CMS Provider Data Catalog.
@@ -93,8 +81,6 @@ Data for this project comes from the Centers for Medicare & Medicaid Services (C
 [CMS Hospital Readmissions Reduction Program Dataset](https://data.cms.gov/provider-data/dataset/9n3s-kdb3)
 
 The dataset contains hospital-level 30-day readmission measures for six conditions and procedures included in the HRRP.
-
-</> Markdown
 
 ## Limitations
 - CMS reporting rules result in suppressed or unavailable values for some hospital-condition records, so not every hospital has complete data across all six HRRP measures.
